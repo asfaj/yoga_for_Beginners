@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471588739201",
+    "project_id": "beginner-yoga-a7abe",
+    "storage_bucket": "beginner-yoga-a7abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471588739201:android:48e76a07edc72be0391580",
+        "android_client_info": {
+          "package_name": "com.example.yoga_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwhQUkL590P4_5Ev9E_hpYZWD4-N3e28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
